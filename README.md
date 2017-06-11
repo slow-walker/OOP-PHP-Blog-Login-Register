@@ -1,4 +1,4 @@
-# OOP-PHP-Login-Register
+# OOP-PHP-Blog-Login-Register
 This is OOP PHP script to create simple login and registration functionality. Also to add simple CRUD operation by creating a simple blog post and comment section. 
 
 # Final Product Features:
